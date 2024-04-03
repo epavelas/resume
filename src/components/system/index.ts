@@ -1,0 +1,6 @@
+export { Desktop } from './desktop'
+export { Dock } from './dock'
+export { MenuBar } from './menu-bar'
+export { Wallpaper } from './wallpaper'
+export { Window } from './window'
+export { WindowsManager } from './windows-manager'
